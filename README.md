@@ -13,3 +13,5 @@ Projeto criado com os conhecimentos adiquiridos no curso fullstack da [b7web]('h
 - `npm start`
 
 
+Deployed link:
+https://rafa4dev.github.io/react-typescript-calc-imc/
